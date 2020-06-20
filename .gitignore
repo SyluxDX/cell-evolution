@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python venv
+[iI]nclude
+[lL]ib
+lib64
+[sS]hare
+[sS]cripts
+
+pip-selfcheck.json
+pyvenv.cfg
+
+.vscode
